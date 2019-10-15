@@ -6,7 +6,7 @@ To start recording a macro, press Ctrl+q and subsequently execute the desired st
 
 ## Key Binding for Macros
 Macro files can be bound to key combinations by passing the macro file path to the run_macro_file command like so:
-{"keys": ["super+alt+l"], "command": "run_macro_file", "args": {"file": "res://Packages/User/Example.sublime-macro"}}
+`{"keys": ["super+alt+l"], "command": "run_macro_file", "args": {"file": "res://Packages/User/Example.sublime-macro"}}`
 
 ## References/Resources
 [Sublime Macros Unofficial Documentation - Macros]: Documentation on Sublime Macros
