@@ -9,6 +9,7 @@
 Find/Replace uses regular expressions including the boost extensions.
 
 [Boost library documentation for regular expressions] - Documentation on regular expressions.
+
 [Boost library documentation for format strings] - Documentation on format strings. Note that Sublime Text additionally interprets \n as $n.
 
 # Resources/References
