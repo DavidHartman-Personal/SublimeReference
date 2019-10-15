@@ -6,3 +6,6 @@
 
 # Resources/References
 [Unofficial Sublime Documentation](http://docs.sublimetext.info/en/latest/index.html)
+
+[comment]: # (reference links for this page)
+[Macros]: Macros/
